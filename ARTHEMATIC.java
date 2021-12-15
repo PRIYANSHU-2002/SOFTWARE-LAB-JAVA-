@@ -1,3 +1,5 @@
+                                                          /* THIS PROGRAM ISD MADE BY PRIYANSHU SINGH
+							                PROGRAM NO. 3          */
 import java.util.Scanner;
 public class ARTHEMATIC {
 
